@@ -34,4 +34,4 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Fea
 
 ## License
 
-© 2025 Brunelle SIEWE. All rights reserved.
+© 2025 Brunelle SIEWE. All rights reserved
