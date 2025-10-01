@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Brunelle SIEWE Portfolio
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features a sleek black and pink design theme with interactive elements and smooth animations.
@@ -35,3 +36,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Fea
 ## License
 
 © 2025 Brunelle SIEWE. All rights reserved
+=======
+# Friend-Portfolio
+>>>>>>> d139e35815ac557fb8f9e9b5d31babbba21d07be
